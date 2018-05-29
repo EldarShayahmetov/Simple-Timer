@@ -7,3 +7,7 @@ You can set time intervals and alarms.
 Need Delphi 7 or later.
 
 ![](1.PNG)
+
+# Authors
+
+* Eldar Shayahmetov, eldarsharpey@gmail.com
